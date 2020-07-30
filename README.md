@@ -10,9 +10,10 @@ Mortality Prediction on MIT Critical Care data
  
  ## Models
   Models tried on this dataset:
-    * Logistic Regression
-    * Decision Trees
-    * Random Forest
-    * XGBoost
-    * LightGBM
+   * Logistic Regression
+   * Decision Trees
+   * Random Forest
+   * XGBoost
+   * LightGBM
     
+Best result was attained from LightGBM!
